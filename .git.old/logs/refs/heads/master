@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 7794fbd44ab102644d0388689b740c96ab5ec5f8 gustavorafaeldev <grlrafael@outlook.com> 1663941650 -0300	commit (initial): initial commit
+7794fbd44ab102644d0388689b740c96ab5ec5f8 032113c5a4716d6d9c6f02e362874a0bf848c1c5 gustavorafaeldev <grlrafael@outlook.com> 1663942309 -0300	commit: angular material instalado no projeto
+032113c5a4716d6d9c6f02e362874a0bf848c1c5 2a842d53d91b351e0adc7a2c765384df0801d0cc gustavorafaeldev <grlrafael@outlook.com> 1663954372 -0300	commit: home implementado com rota
+2a842d53d91b351e0adc7a2c765384df0801d0cc c436af8552f84dced1c8f93ceb2accdc6be3c84b gustavorafaeldev <grlrafael@outlook.com> 1663957427 -0300	commit: categoria-read foi implementado
+c436af8552f84dced1c8f93ceb2accdc6be3c84b c8167bb9e4385484ebed822b79a9fe25799f8d5e gustavorafaeldev <grlrafael@outlook.com> 1663958431 -0300	commit: ajustes no component read
+c8167bb9e4385484ebed822b79a9fe25799f8d5e 378b34adeff5c4ebd7a9e69dc074d321f4c4f831 gustavorafaeldev <grlrafael@outlook.com> 1663961374 -0300	commit: metodo CREATE implementado para categoria
+378b34adeff5c4ebd7a9e69dc074d321f4c4f831 fcf4b9da64728d2504084df2778fd88b4d9fe43a gustavorafaeldev <grlrafael@outlook.com> 1663961581 -0300	commit: finalizando o metodo CREATE
+fcf4b9da64728d2504084df2778fd88b4d9fe43a cfde308836b64006338855d1d9493d6aee2be9d2 gustavorafaeldev <grlrafael@outlook.com> 1664193153 -0300	commit: Categoria DELETE implementada
+cfde308836b64006338855d1d9493d6aee2be9d2 b160f1e63fbe34c99b068e1adeab44fd08b69a86 gustavorafaeldev <grlrafael@outlook.com> 1664195113 -0300	commit: Implementado UPDATE Categoria
+b160f1e63fbe34c99b068e1adeab44fd08b69a86 e80dc86d6e9c88d1ad127c9f90646a25a45243d0 gustavorafaeldev <grlrafael@outlook.com> 1664198574 -0300	commit: leitura de todos os livros por categoria implementado
+e80dc86d6e9c88d1ad127c9f90646a25a45243d0 93ec170e0b7621c93c0afa9a2a56632b33735a96 gustavorafaeldev <grlrafael@outlook.com> 1664203725 -0300	commit: UPDATE para Livro implementado
+93ec170e0b7621c93c0afa9a2a56632b33735a96 c929d79f6063ff131d790cc6c4254a241fce1a5f gustavorafaeldev <grlrafael@outlook.com> 1664211565 -0300	commit: DELETE para Livro implementado
+c929d79f6063ff131d790cc6c4254a241fce1a5f 6efee5c7515009874cb16944c19416cb18254394 gustavorafaeldev <grlrafael@outlook.com> 1664213142 -0300	commit: READ para Livro implementado
