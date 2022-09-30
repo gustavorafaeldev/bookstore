@@ -11,3 +11,10 @@ form {
 button {
     width: 100%;
 }
+
+.subtitle {
+    text-align: justify;
+    font-size: 2em;
+    text-indent: 1em;
+    line-height: 2em;
+}
